@@ -8,4 +8,14 @@ En este repositorio vamos a ver diferente ejemplos
 
 Ejemplos de gestion de cookie de idioma
 
-< a href="idioma_cookie/README.md">README.md</a>
+<a href="idioma_cookie">idioma</a>
+
+## 📂visitas - ultima página
+
+Generamos 2 cookies :
+- una que nos contabiliza el numero de visitas realizadas. 
+- otra que nos indica la página visitadas anteriormente.
+
+<a href="visitas">visitas</a>
+
+

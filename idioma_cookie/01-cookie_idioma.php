@@ -1,11 +1,15 @@
 <?php
+print_r ($_COOKIE);
+echo $_SERVER["HTTP_ACCEPT_LANGUAGE"];
 if (isset($_COOKIE['idioma'])){
     $idioma = $_COOKIE['idioma'];
 }
 else {
+    
     $idioma = substr($_SERVER["HTTP_ACCEPT_LANGUAGE"],0,2);
     setcookie('idioma',$idioma);
 }
+
 
 ?>
 
