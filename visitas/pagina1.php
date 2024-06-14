@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pagina 1</title>
+    <link href="css/<?php echo $estilos; ?>" type="text/css" rel="stylesheet">
 
 </head>
 <body>

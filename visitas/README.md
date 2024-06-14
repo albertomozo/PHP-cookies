@@ -34,3 +34,10 @@ Páginas similares en las que voy muestro los valores de las cookies
     </body>
 </html>
 ```
+#### Añadir estilos
+
+commit 
+
+Nueva cookie estilos que me va a decir que estilo quiero aplicar a la página.
+
+📁css  estilo1.css ..... estilo5.css
